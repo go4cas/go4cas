@@ -1,11 +1,10 @@
 # Hi, I'm Cas 👋
 
-Product guy, based in Cape Town. Focused on solutions. I shape the _what_ and _why_, then build small, sharp tools to get there — mostly with **vanilla JavaScript and zero-dependency stacks**, because I like understanding every line that ships.
+AI Product guy, based in Cape Town. Focused on solutions. I shape the _what_ and _why_, then build small, sharp tools to get there — mostly with **vanilla JavaScript and zero-dependency stacks**, because I like understanding every line that ships.
 
 ### What I'm into
 
 - 💡 Product thinking — solving the real problem, not the obvious one
-- 🧰 Local-first, zero-dependency tooling
 - 🤖 AI-augmented workflows & agent architecture
 - 🎛️ Operator-facing control interfaces
 
@@ -17,7 +16,7 @@ Product guy, based in Cape Town. Focused on solutions. I shape the _what_ and _w
 
 ### Toolbelt
 
-`Bun` · `TypeScript` · `Arrow.js` · `Hono` · `Postgres + Drizzle` · `tRPC` · `Tailwind + DaisyUI` · `Google Apps Script`
+`Bun` · `Node.js` · `Arrow.js` · `Postgres + Drizzle` · `tRPC` · `Tailwind + DaisyUI` · `Google Apps Script`
 
 ### Find me
 
